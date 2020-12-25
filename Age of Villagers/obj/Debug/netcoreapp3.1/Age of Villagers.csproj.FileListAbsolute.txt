@@ -1,0 +1,18 @@
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.csprojAssemblyReference.cache
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.AssemblyInfoInputs.cache
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.AssemblyInfo.cs
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Age of Villagers.exe
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Age of Villagers.deps.json
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Age of Villagers.runtimeconfig.json
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Age of Villagers.runtimeconfig.dev.json
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Age of Villagers.dll
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Age of Villagers.pdb
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.dll
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.pdb
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.genruntimeconfig.cache
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age_of_Villagers.VillageEditorWindow.resources
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.csproj.GenerateResource.cache
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age_of_Villagers.CreateNewVillageForm.resources
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.csproj.CoreCompileInputs.cache
+F:\Study\5th Semester\Design Pattern Lab\Final Assignment\age-of-villagers-swe-17\solutions\30-jubair\Age of Villagers\obj\Debug\netcoreapp3.1\Age of Villagers.csproj.CopyComplete
